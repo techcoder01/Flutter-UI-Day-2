@@ -1,0 +1,4 @@
+#Mon Jul 03 17:39:23 PKT 2023
+base.0=C\:\\Users\\Tech Coder\\Desktop\\Ui 30 Days\\day2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
